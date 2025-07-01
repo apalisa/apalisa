@@ -1,4 +1,11 @@
-## Hi there 👋
+# Cuenta inactiva
+
+Esta cuenta ha quedado inactiva y ya no se encuentra en uso.
+
+👉 El nuevo usuario activo es [@apalisadev](https://github.com/apalisadev)
+
+Gracias por visitar.
+
 
 <!--
 **apalisa/apalisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
